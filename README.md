@@ -1,2 +1,12 @@
 # IMED-265-Spring-2021
 Hello there!
+Hello Everyone, Dr. Liu here.
+
+Test, test. It is I, Mr. GibbieHubbie. 
+#KeeganFlahive - hello.
+Hello Everyone, Dr. Liu here.
+Hello Everyone, Dr. Liu here.
+
+Test, test. It is I, Mr. GibbieHubbie. 
+
+I AM THANOS :3 -KEVIN
