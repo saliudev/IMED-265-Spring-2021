@@ -18,3 +18,5 @@ This Is Cire from Home Depot. :)
 I AM THANOS :3 -KEVIN
 
 Hello <3 - Celys
+
+Thank you for the contributions! - Dr. Liu
