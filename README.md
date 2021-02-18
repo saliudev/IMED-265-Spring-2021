@@ -48,5 +48,15 @@ Thank you for the contributions! - Dr. Liu
 
 Greetings My fellow classmates - Cory
 
+<<<<<<< Updated upstream
 Hello everybody- Ryan
 
+=======
+<<<<<<< HEAD
+
+=======
+Hello everybody- Ryan
+
+Hey all Lavelle here!
+>>>>>>> 548d6c6ca6a968841a885be47a0cf38c2da0b278
+>>>>>>> Stashed changes
