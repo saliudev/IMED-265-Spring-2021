@@ -40,4 +40,11 @@ I AM THANOS :3 -KEVIN
 
 Hello <3 - Celys
 
+
 Howdy - Travis Tyler
+
+Thank you for the contributions! - Dr. Liu
+
+
+Greetings My fellow classmates - Cory
+
