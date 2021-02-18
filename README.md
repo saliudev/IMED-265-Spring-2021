@@ -1,29 +1,43 @@
 # IMED-265-Spring-2021
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 TEST TEST Greetings
-=======
+
 Hello Everyone, Dr. Liu here.
 
 Test, test. It is I, Mr. GibbieHubbie. 
->>>>>>> be9dd69e91d2fb8304ba1bd71fd7585cabda7193
-=======
-<<<<<<< Updated upstream
+
+
+
 Hello Everyone, Dr. Liu here.
 
 Test, test. It is I, Mr. GibbieHubbie. 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 #KeeganFlahive - hello.
-=======
+
 Hello Everyone, Dr. Liu here.
->>>>>>> 9baad8bb7a952da2c029fba2690e900f0509d201
-=======
+
 Hello Everyone, Dr. Liu here.
 
 Test, test. It is I, Mr. GibbieHubbie. 
->>>>>>> be9dd69e91d2fb8304ba1bd71fd7585cabda7193
->>>>>>> Stashed changes
->>>>>>> 99cb08970782a190dcb74f70eeef46e71cd52b98
+
+Hello there!
+Hello Everyone, Dr. Liu here.
+Hello!
+Test, test. It is I, Mr. GibbieHubbie. Hello again, setting up VC for my site.
+#KeeganFlahive - hello.
+Hello Everyone, Dr. Liu here.
+Hello Everyone, Dr. Liu here.
+
+
+Hello Everyone, Dr. Liu here.
+
+Test, test. It is I, Mr. GibbieHubbie. 
+
+
+This Is Cire from Home Depot. :)
+
+I AM THANOS :3 -KEVIN
+
+Hello <3 - Celys
+
+Howdy - Travis Tyler
