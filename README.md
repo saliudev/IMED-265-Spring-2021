@@ -2,7 +2,7 @@
 Hello there!
 Hello Everyone, Dr. Liu here.
 Hello!
-Test, test. It is I, Mr. GibbieHubbie. 
+Test, test. It is I, Mr. GibbieHubbie. Hello again, setting up VC for my site.
 #KeeganFlahive - hello.
 Hello Everyone, Dr. Liu here.
 Hello Everyone, Dr. Liu here.
